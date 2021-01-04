@@ -1,0 +1,21 @@
+Sex:
+Name:
+Surname:
+Age:
+Hight(in [cm]):
+Weight(in [kg]):
+Eye color:
+Hair color:
+Favourit animal:
+
+Ideal partner data:
+Sex:
+Min age:
+Max age:
+Min hight(in [cm]):
+Max hight(in [cm]):
+Min weight(in [kg]):
+Max weight(in [kg]):
+Eye color:
+Hair color:
+Favourit animal:

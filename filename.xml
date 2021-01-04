@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="18">
+<a class_id="0" tracking_level="0" version="0">
+	<count>1</count>
+	<item_version>0</item_version>
+	<item class_id="1" tracking_level="0" version="0">
+		<first>a</first>
+		<second class_id="2" tracking_level="0" version="0">
+			<degrees>35</degrees>
+			<minutes>59</minutes>
+			<seconds>2.456699944e+01</seconds>
+			<miejsce>dupa</miejsce>
+			<a class_id="3" tracking_level="0" version="0">
+				<trolo>aaa</trolo>
+			</a>
+		</second>
+	</item>
+</a>
+</boost_serialization>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="18">
+<database class_id="0" tracking_level="0" version="0">
+	<candidates class_id="1" tracking_level="0" version="0">
+		<count>3</count>
+		<item_version>0</item_version>
+		<item class_id="2" tracking_level="0" version="0">
+			<first>Bartek</first>
+			<second class_id="3" tracking_level="0" version="0">
+				<name>Bartek</name>
+				<sex>male</sex>
+				<age>24</age>
+				<hight>180</hight>
+				<eyeColor>black</eyeColor>
+				<hair>brunet</hair>
+				<favAnimal>dog</favAnimal>
+				<email>barto</email>
+				<phoneNumber>1111</phoneNumber>
+			</second>
+		</item>
+		<item>
+			<first>Kasia</first>
+			<second>
+				<name>Kasia</name>
+				<sex>female</sex>
+				<age>22</age>
+				<hight>150</hight>
+				<eyeColor>blue</eyeColor>
+				<hair>red</hair>
+				<favAnimal>none</favAnimal>
+				<email>kacha</email>
+				<phoneNumber>3333</phoneNumber>
+			</second>
+		</item>
+		<item>
+			<first>Tomek</first>
+			<second>
+				<name>Tomek</name>
+				<sex>male</sex>
+				<age>26</age>
+				<hight>170</hight>
+				<eyeColor>blue</eyeColor>
+				<hair>blond</hair>
+				<favAnimal>cat</favAnimal>
+				<email>tomo</email>
+				<phoneNumber>2222</phoneNumber>
+			</second>
+		</item>
+	</candidates>
+</database>
+</boost_serialization>
+
