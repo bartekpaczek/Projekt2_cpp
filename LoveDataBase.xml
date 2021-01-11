@@ -3,7 +3,7 @@
 <boost_serialization signature="serialization::archive" version="18">
 <database class_id="0" tracking_level="0" version="0">
 	<candidates class_id="1" tracking_level="0" version="0">
-		<count>3</count>
+		<count>4</count>
 		<item_version>0</item_version>
 		<item class_id="2" tracking_level="0" version="0">
 			<first>Bartek</first>
@@ -31,6 +31,20 @@
 				<favAnimal>none</favAnimal>
 				<email>kacha</email>
 				<phoneNumber>3333</phoneNumber>
+			</second>
+		</item>
+		<item>
+			<first>Michal</first>
+			<second>
+				<name>Michal</name>
+				<sex>male</sex>
+				<age>51</age>
+				<hight>181</hight>
+				<eyeColor>green</eyeColor>
+				<hair>gray</hair>
+				<favAnimal>dog</favAnimal>
+				<email>michas</email>
+				<phoneNumber>3333334</phoneNumber>
 			</second>
 		</item>
 		<item>

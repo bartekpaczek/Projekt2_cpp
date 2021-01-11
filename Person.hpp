@@ -16,21 +16,6 @@ vector<string> eyeColorsList = {"blue", "green", "brown", "black"};
 vector<string> hairColorsList = {"bold", "blond", "brunet", "red", "gray"};
 vector<string> animalsList = {"none", "cat","dog"};
 
-struct Ideal{
-    //Basic data
-    string sex; 
-    string age;
-
-    //Aperance data
-    string hight; //in cm
-    string eyeColor;
-    string hair;
-
-    //Person data
-    string favAnimnal;
-    Ideal(){};
-};
-
 struct Candidate{
     private:
     friend class boost::serialization::access;
@@ -65,6 +50,8 @@ struct Candidate{
     string email;
     string phoneNumber;
 
+    //vector<pair<string,string>> ideal;
+
     Candidate(){};
     void provide_data(){
         cout<<"\nProvide full name: "; cin>>name;
@@ -88,7 +75,7 @@ struct Candidate{
         "\nFavourite animal: "<<favAnimal<<
         "\n----------------------------------"<<
         "\nPhone number: "<<phoneNumber<<
-        "\nE-mail:"<<email;        
+        "\nE-mail:"<<email<<"\n";        
     };
 
     void print_name(){
